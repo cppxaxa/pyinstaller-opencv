@@ -1,0 +1,1 @@
+pyinstaller -F "C:\Projects\pyinstaller-ocv\minimal_build.py" -p "C:\Users\prateekxaxa\Anaconda3\envs\minimal_example\python.exe"
